@@ -43,33 +43,43 @@ Busco activamente oportunidades para aplicar mis conocimientos en entornos produ
 
 <br/>
 
-## Habilidades técnicas
+### 🛠️ Habilidades Técnicas
 
-**Sistemas operativos y virtualización**
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+#### 🖥️ Sistemas Operativos y Servidores
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+</p>
 
-**Redes y comunicaciones**
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=flat-square)
-![DHCP/DNS](https://img.shields.io/badge/DHCP%2FDNS-004880?style=flat-square)
-![VLANs](https://img.shields.io/badge/VLANs-009639?style=flat-square)
+#### 🌐 Redes y Comunicaciones
+<p>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge&logo=internet&logoColor=white" alt="TCP/IP"/>
+  <img src="https://img.shields.io/badge/DHCP%2F%20DNS-004880?style=for-the-badge&logo=internet&logoColor=white" alt="DHCP/DNS"/>
+  <img src="https://img.shields.io/badge/VLANs-009639?style=for-the-badge&logo=internet&logoColor=white" alt="VLANs"/>
+</p>
 
-**Seguridad informática**
-![Seguridad Perimetral](https://img.shields.io/badge/Seguridad_Perimetral-B00020?style=flat-square)
-![Backups y BDR](https://img.shields.io/badge/Backups_y_BDR-4285F4?style=flat-square)
-![Análisis Preventivo](https://img.shields.io/badge/Análisis_Preventivo-00897B?style=flat-square)
+#### 🔒 Seguridad Informática
+<p>
+  <img src="https://img.shields.io/badge/Seguridad_Perimetral-FF0000?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Seguridad Perimetral"/>
+  <img src="https://img.shields.io/badge/Backups-y_BDR-4285F4?style=for-the-badge&logo=backblaze&logoColor=white" alt="Backups"/>
+  <img src="https://img.shields.io/badge/Análisis_Preventivo-00C7B7?style=for-the-badge&logo=splunk&logoColor=white" alt="Análisis Preventivo"/>
+</p>
 
-**Bases de datos**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+#### 🗄️ Bases de Datos
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+</p>
 
-**Soporte técnico y mantenimiento**
-![Diagnóstico](https://img.shields.io/badge/Diagnóstico_de_Incidentes-455A64?style=flat-square)
-![Mantenimiento](https://img.shields.io/badge/Mantenimiento_Preventivo_y_Correctivo-EF6C00?style=flat-square)
-![Electrónica](https://img.shields.io/badge/Electrónica_y_Electricidad-F9A825?style=flat-square)
+#### 🛠️ Soporte Técnico y Mantenimiento
+<p>
+  <img src="https://img.shields.io/badge/Diagnóstico_de_Incidentes-4B8BBE?style=for-the-badge&logo=statuspage&logoColor=white" alt="Diagnóstico"/>
+  <img src="https://img.shields.io/badge/Mantenimiento_Preventivo-y_Correctivo-FF6F00?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Mantenimiento"/>
+  <img src="https://img.shields.io/badge/Electrónica-y_Electricidad-FFD700?style=for-the-badge&logo=raspberry-pi&logoColor=black" alt="Electrónica"/>
+</p>
 
 <br/>
 
