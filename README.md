@@ -5,8 +5,6 @@
 **Técnico Superior en Soporte de Infraestructura de Tecnología de la Información**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-gimenez-019513337)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:[TU-EMAIL])
-[![Portafolio](https://img.shields.io/badge/Portafolio-1a1a1a?style=flat-square&logo=aboutdotme&logoColor=white)]([TU-PORTFOLIO])
 ![Visitas](https://komarev.com/ghpvc/?username=julio-gimenez&color=0A66C2&style=flat-square&label=Visitas)
 
 </div>
@@ -85,16 +83,7 @@ Busco activamente oportunidades para aplicar mis conocimientos en entornos produ
 
 <br/>
 
-## Estadísticas de GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=julio-gimenez&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio-gimenez&layout=compact&theme=default&hide_border=true" height="165"/>
-
-</div>
-
-<br/>
 
 ## Contacto
 
@@ -103,4 +92,3 @@ Siempre abierto a colaborar en proyectos desafiantes y a seguir creciendo profes
 Si querés charlar sobre oportunidades laborales, redes o ciberseguridad, no dudes en escribirme.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-gimenez-019513337)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:[TU-EMAIL])
