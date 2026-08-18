@@ -119,12 +119,42 @@ Busco activamente oportunidades para aplicar mis conocimientos en entornos produ
 
 <br/>
 
+<br/>
 
+## 🚀 Proyectos Destacados
+
+<table>
+<tr>
+<td width="70" align="center">🖥️</td>
+<td>
+
+**Servidor NAS casero con OpenMediaVault**
+
+Diseñé y armé un servidor NAS reutilizando hardware en desuso (computadoras viejas y discos duros fuera de servicio), dándoles una segunda vida como infraestructura de almacenamiento propia.
+
+- 🐧 **OpenMediaVault** como sistema base de gestión de almacenamiento
+- 🔐 **SSH** configurado para administración remota segura
+- 🐳 **Docker Compose** para desplegar y orquestar servicios containerizados
+- 💾 **RAID** (implementación de distintos niveles) para redundancia y protección de datos
+- 🌐 **ZeroTier** para asignar una red virtual con acceso remoto seguro, sin depender de una IP pública tradicional
+
+<p>
+  <img src="https://img.shields.io/badge/OpenMediaVault-002B4B?style=flat-square&logo=openmediavault&logoColor=white" alt="OpenMediaVault"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"/>
+  <img src="https://img.shields.io/badge/SSH-000000?style=flat-square&logo=gnu-bash&logoColor=white" alt="SSH"/>
+  <img src="https://img.shields.io/badge/RAID-4B8BBE?style=flat-square&logo=databricks&logoColor=white" alt="RAID"/>
+  <img src="https://img.shields.io/badge/ZeroTier-FFAE00?style=flat-square&logo=zerotier&logoColor=black" alt="ZeroTier"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## Contacto
 
 Siempre abierto a colaborar en proyectos desafiantes y a seguir creciendo profesionalmente.
 
-Si querés charlar sobre oportunidades laborales, redes o ciberseguridad, no dudes en escribirme.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-gimenez-019513337)
