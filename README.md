@@ -1,177 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=200&section=header&text=Julio%20Gimenez&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=twinkling" width="100%"/>
+# Julio Gimenez
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=T%C3%A9cnico+Superior+en+Soporte+de+Infraestructura+TI;Redes+%7C+Servidores+%7C+Ciberseguridad;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG"/>
+**Técnico Superior en Soporte de Infraestructura de Tecnología de la Información**
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=julio-gimenez&label=Visitas+al+Perfil&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/julio-gimenez-019513337" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:[TU-EMAIL]" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="[TU-PORTFOLIO]" target="_blank">
-  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-gimenez-019513337)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:[TU-EMAIL])
+[![Portafolio](https://img.shields.io/badge/Portafolio-1a1a1a?style=flat-square&logo=aboutdotme&logoColor=white)]([TU-PORTFOLIO])
+![Visitas](https://komarev.com/ghpvc/?username=julio-gimenez&color=0A66C2&style=flat-square&label=Visitas)
 
 </div>
 
 <br/>
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
-<img align="right" width="230" src="https://skillicons.dev/icons?i=linux,windows,cisco,mysql,git,github" alt="stack icons"/>
+Profesional en la recta final de mi formación, próximo a recibirme de la **Tecnicatura Superior en Soporte de Infraestructura de TI**. Me especializo en administración de servidores, gestión de redes, ciberseguridad y resolución de incidentes.
 
-Soy un profesional **en la recta final de mi formación**, próximo a recibirme de la **Tecnicatura Superior en Soporte de Infraestructura de TI**. Me apasiona la administración de servidores, la gestión de redes, la ciberseguridad y la resolución eficiente de incidentes.
+Busco activamente oportunidades para aplicar mis conocimientos en entornos productivos, contribuyendo a la estabilidad y continuidad operativa de las organizaciones. Comprometido con el aprendizaje continuo y las buenas prácticas del sector.
 
-Busco activamente oportunidades para aplicar mis conocimientos en entornos productivos, contribuyendo a la estabilidad y continuidad operativa de las organizaciones. Estoy comprometido con el aprendizaje continuo y las buenas prácticas del sector.
+> *"Garantizar la máxima disponibilidad y seguridad de los entornos TI, anticipando problemas y optimizando recursos."*
 
-> 💡 *"Garantizar la máxima disponibilidad y seguridad de los entornos TI, anticipando problemas y optimizando recursos."*
-
-<br clear="right"/>
-
----
-
-## 📖 Formación Académica
-
-<table width="100%">
-<tr>
-<td width="70" align="center" valign="top">🎓</td>
-<td>
-<b>Tecnicatura Superior en Soporte de Infraestructura de Tecnología de la Información</b><br/>
-🏛️ Instituto Raúl Bernardino Barbetti &nbsp;|&nbsp; 📅 Ene. 2024 – Dic. 2026
 <br/>
 
-![Progreso](https://progress-bar.xyz/85/?title=Avance%20de%20carrera&width=280&color=0e75b6&suffix=%25)
+## Formación académica
 
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **Título** | Tecnicatura Superior en Soporte de Infraestructura de Tecnología de la Información |
+| **Institución** | Instituto Raúl Bernardino Barbetti |
+| **Período** | Enero 2024 – Diciembre 2026 *(próximo a recibirme)* |
 
----
+<br/>
 
-## 🧾 Certificaciones Profesionales
+## Certificaciones
+
+| Certificación | Institución | Fecha |
+|---|---|---|
+| AWS GenAI Fundamentals | Amazon Web Services | — |
+| AWS GenAI Practitioner | Amazon Web Services | — |
+| Networking Devices and Initial Configuration | Cisco | Enero 2026 |
+| Networking Basics | Cisco | Diciembre 2025 |
+| Introduction to Cybersecurity | Cisco | Octubre 2025 |
+
+<br/>
+
+## Habilidades técnicas
+
+**Sistemas operativos y virtualización**
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+**Redes y comunicaciones**
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=flat-square)
+![DHCP/DNS](https://img.shields.io/badge/DHCP%2FDNS-004880?style=flat-square)
+![VLANs](https://img.shields.io/badge/VLANs-009639?style=flat-square)
+
+**Seguridad informática**
+![Seguridad Perimetral](https://img.shields.io/badge/Seguridad_Perimetral-B00020?style=flat-square)
+![Backups y BDR](https://img.shields.io/badge/Backups_y_BDR-4285F4?style=flat-square)
+![Análisis Preventivo](https://img.shields.io/badge/Análisis_Preventivo-00897B?style=flat-square)
+
+**Bases de datos**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+**Soporte técnico y mantenimiento**
+![Diagnóstico](https://img.shields.io/badge/Diagnóstico_de_Incidentes-455A64?style=flat-square)
+![Mantenimiento](https://img.shields.io/badge/Mantenimiento_Preventivo_y_Correctivo-EF6C00?style=flat-square)
+![Electrónica](https://img.shields.io/badge/Electrónica_y_Electricidad-F9A825?style=flat-square)
+
+<br/>
+
+## Herramientas y plataformas
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=flat-square&logo=Replit&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Gamma](https://img.shields.io/badge/Gamma-000000?style=flat-square&logo=gamma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+<br/>
+
+## Estadísticas de GitHub
 
 <div align="center">
 
-| Certificación | Institución | Expedición |
-|:---|:---:|:---:|
-| **AWS GenAI Fundamentals** | ![AWS](https://skillicons.dev/icons?i=aws) | — |
-| **AWS GenAI Practitioner** | ![AWS](https://skillicons.dev/icons?i=aws) | — |
-| **Networking Devices and Initial Configuration** | ![Cisco](https://img.shields.io/badge/-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Ene. 2026 |
-| **Networking Basics** | ![Cisco](https://img.shields.io/badge/-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Dic. 2025 |
-| **Introduction to Cybersecurity** | ![Cisco](https://img.shields.io/badge/-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Oct. 2025 |
+<img src="https://github-readme-stats.vercel.app/api?username=julio-gimenez&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio-gimenez&layout=compact&theme=default&hide_border=true" height="165"/>
 
 </div>
 
----
-
-## 🛠️ Habilidades Técnicas
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🖥️ Sistemas Operativos y Servidores**
-<br/>
-<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 Redes y Comunicaciones**
-<br/>
-<img src="https://skillicons.dev/icons?i=cisco&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/TCP%2FIP-005571?style=flat-square"/>
-<img src="https://img.shields.io/badge/DHCP%2FDNS-004880?style=flat-square"/>
-<img src="https://img.shields.io/badge/VLANs-009639?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔒 Seguridad Informática**
-
-`Seguridad Perimetral` ████████░░ 80%
-`Backups y BDR` ███████░░░ 70%
-`Análisis Preventivo` ███████░░░ 70%
-
-</td>
-<td width="50%" valign="top">
-
-**🗄️ Bases de Datos**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**🛠️ Soporte Técnico y Mantenimiento**
-<br/><br/>
-<img src="https://img.shields.io/badge/Diagnóstico_de_Incidentes-4B8BBE?style=flat-square&logo=statuspage&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mantenimiento_Preventivo_y_Correctivo-FF6F00?style=flat-square&logo=azure-devops&logoColor=white"/>
-<img src="https://img.shields.io/badge/Electrónica_y_Electricidad-FFD700?style=flat-square&logo=raspberry-pi&logoColor=black"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Herramientas y Plataformas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,github&theme=dark" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gamma-000000?style=for-the-badge&logo=gamma&logoColor=white"/>
-</p>
-
----
-
-## 📊 Actividad y Estadísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=julio-gimenez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio-gimenez&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
-
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=julio-gimenez&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
+## Contacto
 
-<br/>
+Siempre abierto a colaborar en proyectos desafiantes y a seguir creciendo profesionalmente.
 
-<img src="https://github-profile-trophy.vercel.app/?username=julio-gimenez&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+Si querés charlar sobre oportunidades laborales, redes o ciberseguridad, no dudes en escribirme.
 
-</div>
-
----
-
-## 📫 Conectemos
-
-<div align="center">
-
-⭐ *Siempre abierto a colaborar en proyectos desafiantes y a seguir creciendo profesionalmente.*
-
-📩 Si querés charlar sobre **oportunidades laborales, redes o ciberseguridad**, ¡no dudes en escribirme!
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,11,6&height=120&section=footer" width="100%"/>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-gimenez-019513337)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:[TU-EMAIL])
