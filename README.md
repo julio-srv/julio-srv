@@ -30,10 +30,12 @@ Busco activamente oportunidades para aplicar mis conocimientos en entornos produ
 | **Período** | Enero 2024 – Diciembre 2026 *(próximo a recibirme)* |
 
 <br/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=julio-srv&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=julio-srv&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=julio-srv&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🧾 Certificaciones Profesionales
 
