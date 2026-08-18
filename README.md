@@ -31,15 +31,15 @@ Busco activamente oportunidades para aplicar mis conocimientos en entornos produ
 
 <br/>
 
-## Certificaciones
+## 🧾 Certificaciones Profesionales
 
-| Certificación | Institución | Fecha |
-|---|---|---|
-| AWS GenAI Fundamentals | Amazon Web Services | — |
-| AWS GenAI Practitioner | Amazon Web Services | — |
-| Networking Devices and Initial Configuration | Cisco | Enero 2026 |
-| Networking Basics | Cisco | Diciembre 2025 |
-| Introduction to Cybersecurity | Cisco | Octubre 2025 |
+| Certificación | Institución | Expedición |
+|:---|:---:|:---:|
+| **AWS GenAI Fundamentals** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | — |
+| **AWS GenAI Practitioner** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | — |
+| **Networking Devices and Initial Configuration** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Ene. 2026 |
+| **Networking Basics** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Dic. 2025 |
+| **Introduction to Cybersecurity** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Oct. 2025 |
 
 <br/>
 
